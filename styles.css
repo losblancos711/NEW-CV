@@ -328,9 +328,10 @@ ul {
   margin-left:-100px;
   box-shadow: 0px 0px 10px 10px #ea5267;
 }
-.footer-section{
-  background-color: #0d0f5b;
-height: 70vh;
+.footer-section {
+    background-color: #0d0f5b;
+    height: auto;
+    padding-bottom: 50px;
 }
 .footer-p{
 color: #fff;
