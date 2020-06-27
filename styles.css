@@ -490,8 +490,9 @@ a:hover{
     text-align: center;
     color: #fff;
 }
-.footer-section{
-  height: 235vh;
+.footer-section {
+    height: auto;
+    padding-bottom: 50px;
 }
 .footer-h2 {
     margin-top: 100px;
