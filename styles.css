@@ -524,6 +524,11 @@ a:hover{
     -ms-flex-align: center;
     align-items: center;
 }
+  #sticky-social {
+    left: 0;
+    position: fixed;
+    top: 200px;
+}
 }
 
 
