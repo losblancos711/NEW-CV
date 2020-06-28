@@ -546,6 +546,11 @@ a:hover{
     margin-left: 30px;
     box-shadow: none;
 }
+  .About {
+    padding-top: 50px;
+    background-color: #0d0f5b;
+    padding-bottom: 40px;
+}
 }
 
 
