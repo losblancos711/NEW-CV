@@ -82,11 +82,12 @@ h1, h2, h3, h4, h5, p {
     padding: 50px;
     margin-left: -45px;
 }
-.about-p{
-  font-size: 18px;
+.about-p {
+    font-size: 18px;
     line-height: 28px;
     color: #C9C9C9;
     margin: 20px 0;
+    margin-top: 25px;
 }
 .download-button{
   background-color: #ea5267;
