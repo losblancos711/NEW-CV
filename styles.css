@@ -404,7 +404,7 @@ a:hover{
     font-size: 50px;
     line-height: 55px;
     color: #fff;
-    margin-left:40px;
+    margin-left:50px;
 }
 .nav-social{
   position:relative;
@@ -423,7 +423,7 @@ a:hover{
     font-size: 24px;
     color: #fff;
     padding-bottom: 20px;
-    margin-left: 40px;
+    margin-left: 50px;
 }
 .navbar-light .navbar-toggler:hover{
   border: none;
@@ -541,7 +541,7 @@ a:hover{
     padding-right: 35px;
     padding-left: 35px;
     color: #fff;
-    margin-left: 40px;
+    margin-left: 50px;
     box-shadow: none;
 }
 }
