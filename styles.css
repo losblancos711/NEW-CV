@@ -405,7 +405,7 @@ a:hover{
     font-size: 50px;
     line-height: 55px;
     color: #fff;
-    margin-left:50px;
+    margin-left:30px;
 }
 .nav-social{
   position:relative;
@@ -424,7 +424,7 @@ a:hover{
     font-size: 24px;
     color: #fff;
     padding-bottom: 20px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .navbar-light .navbar-toggler:hover{
   border: none;
@@ -531,6 +531,7 @@ a:hover{
     left: 0;
     position: fixed;
     top: 200px;
+    display: none;
 }
   .Contact-button-banner {
     background-color: #ea5267;
@@ -542,7 +543,7 @@ a:hover{
     padding-right: 35px;
     padding-left: 35px;
     color: #fff;
-    margin-left: 50px;
+    margin-left: 30px;
     box-shadow: none;
 }
 }
