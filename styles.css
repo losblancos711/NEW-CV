@@ -26,18 +26,6 @@ a {
     position: relative
 }
 
-.main-timeline3 .timeline {
-    position: relative;
-    margin-top: -51px;
-}
-.main-timeline3 .time-line-three-three{
-  position: relative;
-  margin-top: -63px;
-}
-.main-timeline3 .time-line-three-four{
-  position: relative;
-  margin-top: -87px;
-}
 
 .main-timeline3 .timeline:first-child {
     margin-top: 0;
@@ -259,11 +247,11 @@ a {
 }
 .main-timeline3 .time-line-three-three{
   position: relative;
-  margin-top: -63px;
+  margin-top: -75px;
 }
 .main-timeline3 .time-line-three-four{
   position: relative;
-  margin-top: -87px;
+  margin-top: -111px;
 }
 
 .banner{
