@@ -586,13 +586,17 @@ ul {
   margin-left:-100px;
   box-shadow: 0px 0px 10px 10px #ea5267;
 }
-.footer-section {
-    background-color: #0d0f5b;
-    height: auto;
-    padding-bottom: 50px;
+footer{
+  background-image: url(img/Live-Wave-Background.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.footer-section{
+  padding-bottom: 50px;
+height: auto;
 }
 .footer-p{
-color: #fff;
+color: #0e145b;
 margin-top: 30px;
 font-size: 16px;
 padding-right: 30px;
@@ -601,15 +605,15 @@ line-height: 20px;
 }
 .footer-h2{
   margin-top: 100px;
-  color: #fff;
+  color: #0e145b;
   font-size: 24px;
 }
-.border-footer{
-  margin-top: 30px;
-  border-top: 2px solid #ea5267;
+.border-footer {
+    margin-top: 30px;
+    border-top: 2px solid #ea5267;
 }
 .foot-quick-link{
-  color: #fff;
+  color:  #0e145b;
   list-style: none;
 }
 .foot-quick-link:hover{
@@ -631,7 +635,7 @@ a:hover{
 }
 .copyright-p{
   text-align: center;
-  color: #fff;
+  color: #0e145b;
   margin-top: 20px;
   font-size: 16px;
 }
@@ -642,7 +646,6 @@ a:hover{
 .foot-row{
   margin-bottom: 100px;
 }
-
 @media (max-width:440px) {
   .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
       color: #fff;
