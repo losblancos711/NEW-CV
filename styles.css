@@ -253,7 +253,18 @@ a {
     }
 }
 
-
+.main-timeline3 .timeline {
+    position: relative;
+    margin-top: -51px;
+}
+.main-timeline3 .time-line-three-three{
+  position: relative;
+  margin-top: -63px;
+}
+.main-timeline3 .time-line-three-four{
+  position: relative;
+  margin-top: -87px;
+}
 
 .banner{
 background-color: #0d0f5b;
