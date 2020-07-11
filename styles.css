@@ -693,6 +693,8 @@ a:hover{
   padding-top: 100px;
   padding-bottom: 100px;
 }
+
+
 @media (max-width:440px) {
   .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
       color: #fff;
@@ -703,6 +705,20 @@ a:hover{
     font-size: 24px;
     margin-left: 15px;
 }
+
+.main-timeline3 .timeline {
+    position: relative;
+    margin-top: 0px;
+}
+.main-timeline3 .time-line-three-three{
+  position: relative;
+  margin-top: 5px;
+}
+.main-timeline3 .time-line-three-four{
+  position: relative;
+  margin-top: 9px;
+}
+    
   #sticky-social {
     left: 0;
     position: fixed;
