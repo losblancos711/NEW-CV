@@ -486,6 +486,7 @@ iframe{
 }
 .map{
   margin-top: 100px;
+    padding-bottom: 100px;
 }
 #contacts{
   padding-top: 50px;
@@ -593,7 +594,7 @@ footer{
 }
 .footer-section{
   padding-bottom: 50px;
-height: auto;
+  height: auto;
 }
 .footer-p{
 color: #0e145b;
