@@ -258,6 +258,9 @@ a {
 .banner{
 background-color: #0d0f5b;
 }
+.social-ul{
+  margin-right: 30px;
+}
 .color-nav {
   background-color: #0b0f4d;!important;
 }
