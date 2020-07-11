@@ -649,6 +649,14 @@ a:hover{
 .foot-row{
   margin-bottom: 100px;
 }
+.downoad-cv-footer-button:hover{
+  margin-left: 0;
+  background-color: #ea5267;
+}
+.downoad-cv-footer-button{
+  margin-left: 0;
+  background-color: #0e145b;
+}
 @media (max-width:440px) {
   .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
       color: #fff;
@@ -778,8 +786,13 @@ a:hover{
     padding-right: 30px;
     line-height: 20px;
 }
+.downoad-cv-footer-button:hover{
+  margin-left: 0;
+  background-color: #ea5267;
+}
 .downoad-cv-footer-button{
   margin-left: 0;
+  background-color: #0e145b;
 }
 .navbar-collapse {
     -ms-flex-preferred-size: 100%;
