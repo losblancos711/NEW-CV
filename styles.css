@@ -691,9 +691,9 @@ a:hover{
     display: table;
     color: #ea5267;
 }
-.text-center{
-  padding-top: 100px;
-  padding-bottom: 100px;
+.text-center {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
