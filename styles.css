@@ -15,9 +15,6 @@ a {
   padding-bottom: 100px;
 }
 
-.mar-top-counter{
-    margin-top:25px;
-}
 
 
 
@@ -720,7 +717,10 @@ a:hover{
   position: relative;
   margin-top: 0px;
 }
-    
+   .mar-top-counter{
+    margin-top:25px;
+}
+ 
   #sticky-social {
     left: 0;
     position: fixed;
