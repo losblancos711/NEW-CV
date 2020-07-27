@@ -654,7 +654,8 @@ a:hover{
 .counter {
     background-color:#0e145b;
     padding: 20px 0;
-    height: 28vh;
+    height: auto;
+    padding-bottom:50px;
     border-radius: 5px;
 }
 
